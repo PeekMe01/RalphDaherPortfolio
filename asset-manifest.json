@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RalphDaherPortfolio/static/css/main.3b2fbeb6.css",
+    "main.js": "/RalphDaherPortfolio/static/js/main.ff5ed12a.js",
+    "static/media/MyResume.zip": "/RalphDaherPortfolio/static/media/MyResume.29f4c4838aff3fd39720.zip",
+    "static/media/project2.png": "/RalphDaherPortfolio/static/media/project2.76f675a4ae840ee0de85.png",
+    "static/media/20230415_183428.jpg": "/RalphDaherPortfolio/static/media/20230415_183428.169b6c5271e6b296a989.jpg",
+    "static/media/project5.png": "/RalphDaherPortfolio/static/media/project5.2a7f1b5ddf1d01e1c2e0.png",
+    "static/media/1683214357815.jpg": "/RalphDaherPortfolio/static/media/1683214357815.9158c3609ee31bbcfb62.jpg",
+    "static/media/project1.png": "/RalphDaherPortfolio/static/media/project1.12b4c1be16251ceba70a.png",
+    "static/media/project4.png": "/RalphDaherPortfolio/static/media/project4.e9c0971e253a08927e50.png",
+    "static/media/project6.png": "/RalphDaherPortfolio/static/media/project6.937c315ee65de32578d9.png",
+    "static/media/bg-texture.png": "/RalphDaherPortfolio/static/media/bg-texture.94abb40a4df5316497dc.png",
+    "static/media/project3.png": "/RalphDaherPortfolio/static/media/project3.9f9383759e3e00d5016b.png",
+    "index.html": "/RalphDaherPortfolio/index.html",
+    "main.3b2fbeb6.css.map": "/RalphDaherPortfolio/static/css/main.3b2fbeb6.css.map",
+    "main.ff5ed12a.js.map": "/RalphDaherPortfolio/static/js/main.ff5ed12a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b2fbeb6.css",
+    "static/js/main.ff5ed12a.js"
+  ]
+}
