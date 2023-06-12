@@ -12,7 +12,7 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Car Dealership Management',
-    github: 'https://github.com/HyperJAK/CarDealerShip_Project'
+    github: 'https://github.com/HyperJAK/CarDealership-Maven-Runnable'
   },
   {
     id: 2,
